@@ -3,6 +3,7 @@
 Date:7/18/2022
 --
 Updates:
+
 --runCPCA.py-- 
 the basic CPCA code with input Z, G or H matrix(in '.mat' file) to return an output python dictionary with the basic CPCA calculation results.
 include two functions: runCPCA and findLoadingsScores
