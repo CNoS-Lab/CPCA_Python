@@ -19,3 +19,22 @@ to generate heatmap for loading matrix(components or predictors)
 to generate scree plot for all components
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Date:7/26/2022
+--
+Updates:
+
+--splitHalfCrossValidCpca.py--
+Preparation for Cross Validation, split the raw data into training set and testing set.
+
+--getPcaPredCorr.py--
+Run CPCA on the data, input the number of components according to the scree plot and calculate the predictor scores and loadings.
+
+--SelectCompLoadingsBig.py--
+Test the reliability of all variables in Z seperately.
+
+--CPCA_CV_main.ipynb--
+Do Cross Validation CPCA on the data and generate the report.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
