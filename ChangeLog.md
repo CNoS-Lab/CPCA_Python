@@ -51,11 +51,14 @@ Big changes:
 4. use a new method to process the external analysis so that the speed is faster now
 
 New files:
+
 --splitHalfCrossValidCpca.py--
 --getPcaPredCorr.py--
 --SelectCompLoadingsBig.py--
 --CPCA_CV_main.ipynb--
 --runCPCA.py--
 --G_CPCA_Analysis.py--
+
 old version codes were deleted.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
