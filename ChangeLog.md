@@ -38,3 +38,24 @@ Test the reliability of all variables in Z seperately.
 Do Cross Validation CPCA on the data and generate the report.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Date:8/18/2022
+--
+Updates:
+
+Big changes:
+1. data can directly comes from .csv file
+2. a correct in cross validation process
+3. a connection diagram is added to the report
+4. use a new method to process the external analysis so that the speed is faster now
+
+New files:
+--splitHalfCrossValidCpca.py--
+--getPcaPredCorr.py--
+--SelectCompLoadingsBig.py--
+--CPCA_CV_main.ipynb--
+--runCPCA.py--
+--G_CPCA_Analysis.py--
+old version codes were deleted.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
